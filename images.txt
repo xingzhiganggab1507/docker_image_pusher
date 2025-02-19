@@ -7,5 +7,4 @@ xhofe/alist:latest
 youshandefeiyang/allinone
 yuexuangu/allinone_format
 talebook/talebook
-guovern/iptv-api
 HerbertHe/iptv-sources
