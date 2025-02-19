@@ -8,3 +8,4 @@ youshandefeiyang/allinone
 yuexuangu/allinone_format
 talebook/talebook
 HerbertHe/iptv-sources
+guovern/iptv-api
