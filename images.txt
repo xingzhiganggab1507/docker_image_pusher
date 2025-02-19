@@ -6,7 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 youshandefeiyang/allinone
 yuexuangu/allinone_format
-talebook/talebook
-HerbertHe/iptv-sources
 guovern/iptv-api
 youshandefeiyang/feiyangdigital-bot
