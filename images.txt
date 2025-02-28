@@ -9,3 +9,4 @@ yuexuangu/allinone_format
 guovern/iptv-api
 youshandefeiyang/feiyangdigital-bot
 linuxserver/calibre-web
+Technosoft2000/calibre-web
